@@ -1,5 +1,5 @@
 {
-  "name": "cxa-business-components",
+  "name": "@xiajing7478/cxa-business-components",
   "version": "1.0.0",
   "description": "Shared business components for our apps",
   "main": "dist/index.cjs",
@@ -10,7 +10,7 @@
   ],
   "scripts": {
     "build": "rollup -c"
-  },
+  }, 
   "keywords": [],
   "author": "",
   "type": "module",
@@ -30,5 +30,8 @@
     "antd": ">=5.0.0",
     "react": ">=18.0.0",
     "react-dom": ">=18.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }
