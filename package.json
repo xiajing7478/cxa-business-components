@@ -1,6 +1,6 @@
 {
   "name": "@xiajing7478/cxa-business-components",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shared business components for our apps",
   "main": "dist/index.cjs",
   "module": "dist/index.es.js",
@@ -10,7 +10,7 @@
   ],
   "scripts": {
     "build": "rollup -c"
-  }, 
+  },
   "keywords": [],
   "author": "",
   "type": "module",
